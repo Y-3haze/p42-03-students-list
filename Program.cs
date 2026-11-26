@@ -96,3 +96,4 @@ class Program
         Console.WriteLine($"{what}: получено {result}, ожидалось {expected} - {status}");
     }
 }
+//Минас и Александр
